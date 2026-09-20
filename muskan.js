@@ -1,2 +1,2 @@
 print("muskan sahani")
-output muskan sahani
+output muskan sahani 
