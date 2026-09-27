@@ -1,0 +1,16 @@
+Row 1:
+Sum = 60
+Average = 20.00
+Maximum = 30
+
+Row 2:
+Sum = 30
+Average = 10.00
+Maximum = 15
+
+Row 3:
+Sum = 70
+Average = 23.33
+Maximum = 40
+
+Row with Highest Row-Sum = 3

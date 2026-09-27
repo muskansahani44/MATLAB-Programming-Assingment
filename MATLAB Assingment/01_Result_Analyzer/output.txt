@@ -1,0 +1,7 @@
+Valid Marks: 85 72 45 66 30 95 
+Total = 393
+Average = 65.50
+Highest = 95
+Lowest = 30
+Pass = 5
+Fail = 1

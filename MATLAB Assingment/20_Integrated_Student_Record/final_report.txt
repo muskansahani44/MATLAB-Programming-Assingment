@@ -1,0 +1,8 @@
+STUDENT RESULT REPORT
+Total Marks = 640.00
+Average Marks = 64.00
+Highest Marks = 95.00
+Lowest Marks = 30.00
+Pass Count = 8
+Fail Count = 2
+Overall Result = FAIL

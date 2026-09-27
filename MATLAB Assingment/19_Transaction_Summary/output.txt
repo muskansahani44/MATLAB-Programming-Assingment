@@ -1,0 +1,8 @@
+TRANSACTION SUMMARY
+Total Credit = 5050.00
+Total Debit = -2500.00
+Net Balance = 2550.00
+Credit Count = 8
+Debit Count = 6
+Largest Credit = 1500.00
+Largest Debit = 700.00

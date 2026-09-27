@@ -1,0 +1,8 @@
+Number Analysis
+Positive numbers: 6
+Negative numbers: 4
+Zero values: 2
+Sum: 65.00
+Average: 5.42
+Minimum: -10.00
+Maximum: 25.00

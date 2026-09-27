@@ -1,0 +1,7 @@
+Original Number: 1221
+Number of Digits: 4
+Sum of Digits: 6
+Count of Even Digits: 2
+Count of Odd Digits: 2
+Reversed Number: 1221
+Palindrome: Yes

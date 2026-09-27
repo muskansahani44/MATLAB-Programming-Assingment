@@ -1,0 +1,11 @@
+Array 1:
+Total = 150
+Average = 30.00
+Minimum = 10
+Maximum = 50
+
+Array 2 (All Negative):
+Total = -45
+Average = -9.00
+Minimum = -20
+Maximum = -2

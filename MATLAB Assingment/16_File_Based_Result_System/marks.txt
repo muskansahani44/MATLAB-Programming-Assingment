@@ -1,0 +1,5 @@
+Muskan 80 75 90
+Anjali 65 70 60
+Priya 90 85 95
+Neha 35 45 40
+Riya 50 55 48

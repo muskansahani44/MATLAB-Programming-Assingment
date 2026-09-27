@@ -1,0 +1,2 @@
+Input Array: 10 20 20 15 8 
+Second largest distinct value = 15

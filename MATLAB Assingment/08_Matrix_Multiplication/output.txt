@@ -1,0 +1,9 @@
+Manual Matrix Product:
+19 22
+43 50
+
+MATLAB A*B Result:
+19 22
+43 50
+
+Both results match.

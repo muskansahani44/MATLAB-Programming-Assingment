@@ -1,0 +1,18 @@
+f = fopen('output.txt','w');
+A = [1 -2 0 4 5];
+B = [-3 0 6 7 -1];
+[p1,n1,z1,e1,o1] = classifyArray(A);
+[p2,n2,z2,e2,o2] = classifyArray(B);
+fprintf(f,'Array 1:\n');
+fprintf(f,'Positive = %d\n',p1);
+fprintf(f,'Negative = %d\n',n1);
+fprintf(f,'Zero = %d\n',z1);
+fprintf(f,'Even = %d\n',e1);
+fprintf(f,'Odd = %d\n\n',o1);
+fprintf(f,'Array 2:\n');
+fprintf(f,'Positive = %d\n',p2);
+fprintf(f,'Negative = %d\n',n2);
+fprintf(f,'Zero = %d\n',z2);
+fprintf(f,'Even = %d\n',e2);
+fprintf(f,'Odd = %d\n',o2);
+fclose(f);

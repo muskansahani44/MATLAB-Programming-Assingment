@@ -1,0 +1,25 @@
+Name: Muskan
+Total: 245
+Average: 81.67
+Result: Pass
+
+Name: Anjali
+Total: 195
+Average: 65.00
+Result: Pass
+
+Name: Priya
+Total: 270
+Average: 90.00
+Result: Pass
+
+Name: Neha
+Total: 120
+Average: 40.00
+Result: Pass
+
+Name: Riya
+Total: 153
+Average: 51.00
+Result: Pass
+

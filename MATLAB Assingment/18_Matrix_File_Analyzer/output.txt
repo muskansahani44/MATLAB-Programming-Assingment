@@ -1,0 +1,10 @@
+MATRIX ANALYSIS
+Maximum: 40 at row 2, column 3
+Minimum: 5 at row 3, column 1
+
+Row Sums:
+Row 1 = 48
+Row 2 = 75
+Row 3 = 42
+
+Highest Row Sum: Row 2 = 75
